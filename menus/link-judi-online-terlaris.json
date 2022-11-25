@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle link-judi-online-terlaris",
+        "command": "link-judi-online-terlaris:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "link-judi-online-terlaris",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "link-judi-online-terlaris:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
