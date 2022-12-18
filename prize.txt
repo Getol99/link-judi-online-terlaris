@@ -1,0 +1,17 @@
+{
+	"status": 200,
+	"data": [
+		{ "_id": "1", "nama": "Jersey Keren", "jumlah": "50", "diklaim": "2" },
+		{ "_id": "2", "nama": "Saldo 50.000", "jumlah": "100", "diklaim": "0" },
+		{ "_id": "3", "nama": "Saldo 100.000", "jumlah": "50", "diklaim": "0" },
+        { "_id": "4", "nama": "T-Shirt Indobet", "jumlah": "150", "diklaim": "0" },
+        { "_id": "5", "nama": "Playstation 5", "jumlah": "15", "diklaim": "1" },
+        { "_id": "6", "nama": "Saldo 250.000", "jumlah": "25", "diklaim": "0" },
+        { "_id": "7", "nama": "Zippo Official", "jumlah": "75", "diklaim": "0" },
+        { "_id": "8", "nama": "Masker Indobet", "jumlah": "150", "diklaim": "2" },
+        { "_id": "9", "nama": "Smoke Bundles", "jumlah": "75", "diklaim": "0" },
+        { "_id": "10", "nama": "Saldo 1 Juta", "jumlah": "15", "diklaim": "0" },
+        { "_id": "11", "nama": "Saldo 500.000", "jumlah": "20", "diklaim": "2" },
+        { "_id": "12", "nama": "Asbak Indobet", "jumlah": "75", "diklaim": "0" }
+	]
+}
