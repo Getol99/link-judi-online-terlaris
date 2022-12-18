@@ -1,7 +1,7 @@
 {
 	"status": 200,
 	"data": [
-		{ "_id": "1", "nama": "iPhone 14 Pro Max", "jumlah": "1", "diklaim": "0" },
+		{ "_id": "1", "nama": "iphone 14 Pro Max", "jumlah": "1", "diklaim": "0" },
 		{ "_id": "2", "nama": "Playstation 5", "jumlah": "1", "diklaim": "0" },
 		{ "_id": "3", "nama": "Jersey Indobet", "jumlah": "75", "diklaim": "0" },
         	{ "_id": "4", "nama": "Asbak Indobet", "jumlah": "38", "diklaim": "0" },
