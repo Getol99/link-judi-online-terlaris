@@ -1,17 +1,18 @@
 {
 	"status": 200,
 	"data": [
-		{ "_id": "1", "nama": "Jersey Keren", "jumlah": "50", "diklaim": "2" },
-		{ "_id": "2", "nama": "Saldo 50.000", "jumlah": "100", "diklaim": "0" },
-		{ "_id": "3", "nama": "Saldo 100.000", "jumlah": "50", "diklaim": "0" },
-        { "_id": "4", "nama": "T-Shirt Indobet", "jumlah": "150", "diklaim": "0" },
-        { "_id": "5", "nama": "Playstation 5", "jumlah": "15", "diklaim": "1" },
-        { "_id": "6", "nama": "Saldo 250.000", "jumlah": "25", "diklaim": "0" },
-        { "_id": "7", "nama": "Zippo Official", "jumlah": "75", "diklaim": "0" },
-        { "_id": "8", "nama": "Masker Indobet", "jumlah": "150", "diklaim": "2" },
-        { "_id": "9", "nama": "Smoke Bundles", "jumlah": "75", "diklaim": "0" },
-        { "_id": "10", "nama": "Saldo 1 Juta", "jumlah": "15", "diklaim": "0" },
-        { "_id": "11", "nama": "Saldo 500.000", "jumlah": "20", "diklaim": "2" },
-        { "_id": "12", "nama": "Asbak Indobet", "jumlah": "75", "diklaim": "0" }
+		{ "_id": "1", "nama": "iPhone 14 Pro Max", "jumlah": "1", "diklaim": "0" },
+		{ "_id": "2", "nama": "Playstation 5", "jumlah": "1", "diklaim": "0" },
+		{ "_id": "3", "nama": "Jersey Indobet", "jumlah": "75", "diklaim": "0" },
+        	{ "_id": "4", "nama": "Asbak Indobet", "jumlah": "38", "diklaim": "0" },
+		{ "_id": "5", "nama": "Voucher Saldo Gratis 50.000", "jumlah": "500", "diklaim": "0" },
+		{ "_id": "6", "nama": "Voucher Saldo Gratis 100.000", "jumlah": "300", "diklaim": "0" },
+		{ "_id": "7", "nama": "Voucher Saldo Gratis 250.000", "jumlah": "200", "diklaim": "0" },
+		{ "_id": "8", "nama": "Voucher Saldo Gratis 500.000", "jumlah": "150", "diklaim": "0" },
+		{ "_id": "9", "nama": "Voucher Saldo Gratis 1.000.000", "jumlah": "65", "diklaim": "0" },
+		{ "_id": "10", "nama": "Masker Indobet", "jumlah": "10", "diklaim": "0" },
+		{ "_id": "11", "nama": "T-Shirt Indobet", "jumlah": "20", "diklaim": "0" },
+		{ "_id": "12", "nama": "Smoke Bundles", "jumlah": "70", "diklaim": "0" },
+		{ "_id": "13", "nama": "Zippo Official Merah", "jumlah": "70", "diklaim": "0" }
 	]
 }
